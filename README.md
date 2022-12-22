@@ -1,33 +1,33 @@
-Employee Summary Page
+##Employee Summary Page
 License: MIT
 
-Description
+#Description
 This is a page that will generate informational summaries for your employees in your company. Using the information you provide.
 
-Table of Contents
+#Table of Contents
 Installation
 Usage
 Contributions
 Tests
 License
-Installation
+#Installation
 For this application to function properly, you need to install the following:
 
 Inquirer
 Jest
-Usage
+#Usage
 Simply run "node index.js" in your terminal. Then follow the prompts.
 
-Preview
+#Preview
 
-Contributions
+#Contributions
 Other users can add more information/features.
 
-Tests
+#Tests
 Run the command "npm run test" in your terminal
 
-License
+#License
 MIT License
 
-Questions
+#Questions
 If you have any questions, or bug reports, email me @trentonlkirchner@gmail.com.
