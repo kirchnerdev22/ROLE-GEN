@@ -1,7 +1,7 @@
 # README-Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This is a node-based README document generating tool. It is used to shorten the time and streamline the process of creating READMEs.
+This is a page that will generate informational summaries for your employees in your company. Using the information you provide.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,7 +10,8 @@ This is a node-based README document generating tool. It is used to shorten the 
 - [License](#license)
 ## Installation
 For this application to function properly, you need to install the following:
-Simply gitpull this to your local enviroment. Run the "npm install" to install the inquirer tool. Then using your terminal, run he "node index.js" command to start the application.
+Inquirer
+Jest
 ## Usage
 Open your code editing tool of your choose, then run the "node index.js" command in your terminal.
 ## Contributions
