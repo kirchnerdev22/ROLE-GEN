@@ -10,17 +10,17 @@ This is a page that will generate informational summaries for your employees in 
 - [License](#license)
 ## Installation
 For this application to function properly, you need to install the following:
-Inquirer
-Jest
+1. Inquirer
+2. Jest
 ## Usage
-Open your code editing tool of your choose, then run the "node index.js" command in your terminal.
+Simply run "node index.js" in your terminal. Then follow the prompts.
 ## Contributions
 It is a closed project. If you would like to contribute, reach out to me via GitHub or my email.
 ## Tests
-You must run this tool in your local enviroment for any testing.
+Run the command "npm run test" in your terminal
 ## License
 MIT License
 ## Questions
 If you have any questions, or bug reports, contact me at Github: https://github.com/kirchnerdev22 or Email: Trentonlkirchner@gmail.com
 ## PREVIEW
-[Untitled_ Dec 14, 2022 9_50 PM.webm](https://user-images.githubusercontent.com/114694410/207768415-0083ad24-c49d-4f94-b8db-9bf897841a92.webm)
+
