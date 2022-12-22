@@ -14,6 +14,10 @@ For this application to function properly, you need to install the following:
 2. Jest
 ## Usage
 Simply run "node index.js" in your terminal. Then follow the prompts.
+## Preview
+[Running program..webm](https://user-images.githubusercontent.com/114694410/209052301-3a412129-9638-4830-98e2-06dc03e4a4d4.webm)
+[Testing.webm](https://user-images.githubusercontent.com/114694410/209052308-1954d9a7-415e-42e5-8503-272dfd4fa21a.webm)
+
 ## Contributions
 It is a closed project. If you would like to contribute, reach out to me via GitHub or my email.
 ## Tests
