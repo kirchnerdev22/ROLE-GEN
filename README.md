@@ -18,6 +18,8 @@ Simply run "node index.js" in your terminal. Then follow the prompts.
 
 
 
+https://user-images.githubusercontent.com/114694410/210484212-f80f85cc-fd37-4775-b4ed-28e142ea3832.mp4
+
 ## Contributions
 It is a closed project. If you would like to contribute, reach out to me via GitHub or my email.
 ## Tests
